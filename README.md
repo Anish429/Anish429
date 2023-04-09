@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning : **Android , Laravel**
 
-- 💬 Ask me about : **Laravel , Java ,PHP**
+- 💬 Ask me about : **Laravel,PHP**
 
 - 📫 Connect with me : **anishyadav11197@gmail.com**
 
-- 📫 Connect with me on Instragram : **_its**
+- 📫 Connect with me on Instragram : **anish3374**
