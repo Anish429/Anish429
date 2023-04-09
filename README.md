@@ -5,7 +5,7 @@
 
 <p align="left" > <img  width="250" src="https://komarev.com/ghpvc/?username=pycode-io&label=Profile%20views&color=0e75b6&style=flat" alt="pycode-io" /> </p>
 
-<p align="left"  width="250" > <a href="anish3374" target="blank"><img src="https://img.shields.io/twitter/follow/_ipradeepyadav?logo=twitter&style=for-the-badge" alt="anish3374" /></a> </p>
+
 
 - 🔭 Currently I’m working on : **Medical , Movies Website **
 
